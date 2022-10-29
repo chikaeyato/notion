@@ -1,2 +1,1 @@
 # notion
-theme: minima
